@@ -1,0 +1,6 @@
+integration:
+  viacep:
+    url: https://viacep.com.br
+  multipliers:
+    url: https://run.mocky.io/v3
+    id: 08917809-c1c8-4238-a165-b1797cac2f16
